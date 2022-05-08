@@ -1,0 +1,10 @@
+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
+
+
+git init
+git add . 
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/GoldenEye37/getting_started.git
+git remote set-url origin https://GoldenEye37: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@github.com/GoldenEye37/getting_started.git
+git push -u origin main
